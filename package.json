@@ -1,0 +1,24 @@
+{
+  "name": "ts-transducers",
+  "version": "1.0.0",
+  "description": "transducers in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkulke/ts-transducers.git"
+  },
+  "author": "mkulke@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkulke/ts-transducers/issues"
+  },
+  "homepage": "https://github.com/mkulke/ts-transducers#readme",
+  "dependencies": {
+    "prettier": "^1.16.4",
+    "typescript": "^3.3.3333"
+  }
+}
